@@ -1,0 +1,56 @@
+@import url('https://fonts.googleapis.com/css?family=Open+Sans');
+@import url('https://fonts.googleapis.com/css?family=Lato');
+
+.teamspeak {
+    font-family: 'Lato', sans-serif;
+}
+
+.teamspeak > .panel-heading {
+    background-color: transparent;
+    border-bottom-style: dashed;
+}
+
+.teamspeak .panel-heading {
+    padding: 5px 15px;
+}
+
+.teamspeak .nav-tabs > li > a {
+    color: #555;
+    border: 1px solid #ddd;
+    border-bottom-color: transparent;
+}
+
+.version-status .panel-body {
+    font-size: 20px;
+    padding: 10px;
+}
+
+.teamspeak .head {
+    padding-bottom: 10px;
+}
+
+.teamspeak .head > .icon {
+    font-size: 40px;
+    float: left;
+    padding: 10px;
+}
+
+.teamspeak .head > .head-name {
+    font-size: 50px;
+    font-weight: 700;
+}
+
+.teamspeak .head > .head-name > span {
+    font-size: 15px;
+}
+
+#contentarea > div:nth-child(1) > h1:nth-child(1) {
+    display: none;
+}
+
+.tab-content > .active {
+    border: 1px solid #ccc;
+    border-top: transparent;
+    padding: 10px 15px;
+    border-radius: 0 0 4px 4px;
+}
