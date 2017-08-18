@@ -5,4 +5,6 @@ TSDNS
 
 https://github.com/nathanrod/nodejs-tsdns
 
-Doação PayPal: https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=VER2VPFNK5A3E
+Doação via PayPal: https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=VER2VPFNK5A3E
+
+Doação via PagSeguro: https://pag.ae/bbnbcrT
